@@ -1,0 +1,2 @@
+modelo,pesos,resolucao,precisao,recall,map50,map50_95
+finetune,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\resultados\finetune_640px_30ep_20261117_223240\weights\best.pt,640,0.8203002805269141,0.658703071672355,0.7207106180561319,0.40195509007247027

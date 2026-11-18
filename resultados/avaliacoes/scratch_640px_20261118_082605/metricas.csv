@@ -1,0 +1,2 @@
+modelo,pesos,resolucao,precisao,recall,map50,map50_95
+scratch,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\resultados\scratch\weights\best.pt,640,0.7238331228043358,0.40254302922107255,0.459734804657542,0.19795242245670358

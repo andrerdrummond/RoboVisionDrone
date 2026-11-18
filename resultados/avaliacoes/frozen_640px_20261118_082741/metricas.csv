@@ -1,0 +1,2 @@
+modelo,pesos,resolucao,precisao,recall,map50,map50_95
+frozen,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\resultados\frozen\weights\best.pt,640,0.8466879959899786,0.636518771331058,0.7105133775066028,0.3724084796176792
