@@ -1,0 +1,13 @@
+﻿split_a,split_b,imagem_a,imagem_b,distancia_dhash
+train,val,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000536.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\val\img_000560.jpg,2
+train,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000279.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000332.jpg,4
+train,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000278.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000228.jpg,5
+train,val,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000297.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\val\img_000394.jpg,5
+train,val,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000312.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\val\img_000394.jpg,5
+train,val,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000320.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\val\img_000235.jpg,5
+train,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000342.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000332.jpg,5
+train,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000414.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000405.jpg,5
+train,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000415.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000405.jpg,5
+train,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000449.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000332.jpg,5
+train,val,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\train\img_000467.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\val\img_000248.jpg,5
+val,test,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\val\img_000235.jpg,C:\Users\andrerdrummond\Downloads\RoboVisionDrone\dados\yolo\images\test\img_000332.jpg,5
